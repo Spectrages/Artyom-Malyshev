@@ -1,12 +1,12 @@
-<p aligne="center"> # Artyom-Malyshev</p>
-## Javascript developer
+# **<p align="center">Artyom Malyshev</p>**
+## <p align="center">Javascript developer</p>
 
 # About me
 
 Responsible and stress-resistant, able to effectively manage himself during independent projects, as well as collaborate as part of a productive team. There is a strong desire to grow and develop in the chosen direction.
 
 # Location
-Belarus/Minsk
+**Belarus/Minsk**
 
 # Skills
 
@@ -42,15 +42,17 @@ Belarus/Minsk
     * The application implements a full-fledged user interaction with the online store. 
     * Full description in documentation.
     
-   <details>
-<summary>Career summary</summary>
-   State Inspectorate for Seed Production, Quarantine and 
-Plant Protection
-   Lead microbiologist
+# Career summary
+## State Inspectorate for Seed Production, Quarantine and Plant Protection
+### Lead microbiologist
    September 2021 - present
-   My responsibilities:
-   * PCR diagnostics
-   * Work with documents
-   * ELISA & Lateral flow analysis
-   * Communication with customers
-   </details>
+   
+  * My responsibilities:
+      * PCR diagnostics
+      * Work with documents
+      * ELISA & Lateral flow analysis
+      * Communication with customers
+# My contacts
+
+### **Email: spectrages@gmail.com**
+### **Telegram: @usericce**
