@@ -41,4 +41,16 @@ Belarus/Minsk
     * https://github.com/Spectrages/Xbox-Store
     * The application implements a full-fledged user interaction with the online store. 
     * Full description in documentation.
-
+    
+   <details>
+<summary> ## Career summary </summary>
+   ### State Inspectorate for Seed Production, Quarantine and 
+Plant Protection
+   #### Lead microbiologist
+   ##### September 2021 - present
+   My responsibilities:
+   * PCR diagnostics
+   * Work with documents
+   * ELISA & Lateral flow analysis
+   * Communication with customers
+   </details>
