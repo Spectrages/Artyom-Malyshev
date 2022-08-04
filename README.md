@@ -44,10 +44,10 @@ Belarus/Minsk
     
    <details>
 <summary>Career summary</summary>
-   ### State Inspectorate for Seed Production, Quarantine and 
+   State Inspectorate for Seed Production, Quarantine and 
 Plant Protection
-   #### Lead microbiologist
-   ##### September 2021 - present
+   Lead microbiologist
+   September 2021 - present
    My responsibilities:
    * PCR diagnostics
    * Work with documents
