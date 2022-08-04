@@ -43,7 +43,7 @@ Belarus/Minsk
     * Full description in documentation.
     
    <details>
-<summary> ## Career summary </summary>
+<summary>Career summary</summary>
    ### State Inspectorate for Seed Production, Quarantine and 
 Plant Protection
    #### Lead microbiologist
