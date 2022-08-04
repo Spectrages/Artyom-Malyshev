@@ -1,4 +1,4 @@
-# Artyom-Malyshev
+<p aligne="center"> # Artyom-Malyshev</p>
 ## Javascript developer
 
 # About me
