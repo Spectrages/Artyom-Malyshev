@@ -31,16 +31,14 @@ Belarus/Minsk
 ## 2021 - PRESENT
 
 * Minesweeper game
-  https://github.com/Spectrages/Mines-game
+    * https://github.com/Spectrages/Mines-game
   
 * Website for updating and getting up-to-date weather information
-   https://github.com/Spectrages/Weather
-   
-   The application implements the receipt of up-to-date weather information using the openweathermap.org API
+    * https://github.com/Spectrages/Weather
+    * The application implements the receipt of up-to-date weather information using the openweathermap.org API
    
 * Online store website
-   https://github.com/Spectrages/Xbox-Store
-   
-   The application implements a full-fledged user interaction with the online store. 
-   Full description in documentation.
+    * https://github.com/Spectrages/Xbox-Store
+    * The application implements a full-fledged user interaction with the online store. 
+    * Full description in documentation.
 
